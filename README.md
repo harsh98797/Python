@@ -1,2 +1,2 @@
 # Python
-DjangoProject
+DjangoProject software
